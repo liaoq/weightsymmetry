@@ -1,5 +1,4 @@
-# weightsymmetry
-How Important is Weight Symmetry in Backpropagation
+How Important is Weight Symmetry in Backpropagation (2015) Liao, Qianli, Joel Z. Leibo, and Tomaso A. Poggio. "How important is weight symmetry in backpropagation?." AAAI. 2016.
 
 Paper PDFs:
 
