@@ -6,3 +6,6 @@ https://dl.acm.org/citation.cfm?id=3016156
 
 https://arxiv.org/abs/1510.05067
 
+Slides:
+
+https://github.com/liaoq/weightsymmetry/blob/master/weight_symmetry_slides_ver03.pdf
